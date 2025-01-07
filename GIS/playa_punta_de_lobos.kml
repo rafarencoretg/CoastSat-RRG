@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="playa_punta_de_lobos" id="playa_punta_de_lobos">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>playa_punta_de_lobos</name>
+  <Placemark id="playa_punta_de_lobos.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.0319000553467,-34.3894115921002 -72.0095407572205,-34.3951969670438 -72.0197729783969,-34.4283378910983 -72.0461114736472,-34.4491224269512 -72.0588070073291,-34.4266186378657 -72.0402374207497,-34.4108311145353 -72.0319000553467,-34.3894115921002</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
