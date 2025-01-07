@@ -40,7 +40,7 @@ def convert_gis_files(input_folder):
                     print(f"Error procesando {file}: {e}")
 
 # Carpeta de entrada (modificar según sea necesario)
-input_folder = r"C:\Users\pedro\OneDrive\Escritorio\RAFA\CoastSat-RRG\GIS"
+input_folder = "GIS"
 
 # Llama a la función
 convert_gis_files(input_folder)
