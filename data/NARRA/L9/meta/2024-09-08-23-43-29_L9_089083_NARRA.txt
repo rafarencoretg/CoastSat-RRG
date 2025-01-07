@@ -1,7 +1,0 @@
-filename	2024-09-08-23-43-29_L9_089083_NARRA_ms.tif
-tile	089083
-epsg	32656
-acc_georef	5.068
-image_quality	9
-im_width	107
-im_height	282

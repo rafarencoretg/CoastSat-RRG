@@ -1,7 +1,0 @@
-filename	2024-09-01-23-56-12_S2_56HLH_NARRA_ms.tif
-tile	56HLH
-epsg	32756
-acc_georef	PASSED
-image_quality	PASSED
-im_width	168
-im_height	432
