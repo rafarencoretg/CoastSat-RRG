@@ -15,6 +15,8 @@ import pdb
 
 # earth engine module
 import ee
+ee.Authenticate()
+ee.Initialize(project='ee-rafarencoretg')
 
 # modules to download, unzip and stack the images
 import requests
@@ -47,7 +49,8 @@ def authenticate_and_initialize():
     """
     # first try to initialize connection with GEE server with existing token
     try: 
-        ee.Initialize()
+        ee.Initialize(project='ee-rafarencoretg')
+
         print('GEE initialized (existing token).')
     except:
         # if token is expired, try to refresh it
@@ -62,11 +65,14 @@ def authenticate_and_initialize():
             creds.refresh(auth_req)
             # initialise GEE session with refreshed credentials
             ee.Initialize(creds)
+            ee.Initialize(project='ee-rafarencoretg')
             print('GEE initialized (refreshed token).')
         except:
             # get the user to authenticate manually and initialize the sesion
             ee.Authenticate()
             ee.Initialize()
+            ee.Initialize(project='ee-rafarencoretg')
+
             print('GEE initialized (manual authentication).')
             
 def retrieve_images(inputs):
