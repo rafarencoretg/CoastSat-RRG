@@ -2,10 +2,6 @@
 *.pyc
 *.mat
 *.tif
-*.png
-*.PNG
-*.jpeg
-*.jpg
 *.pkl
 *.txt
 *checkpoint.ipynb
