@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "chi0359_transects",
+"features": [
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0000", "SiteId": "chi0359", "Orientation": 256.9, "Slope": 0.07, "Trend": -0.16 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.041062, -34.621733 ], [ -72.045336, -34.622443 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0001", "SiteId": "chi0359", "Orientation": 258.4, "Slope": 0.085, "Trend": -0.22 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.041267, -34.620895 ], [ -72.045561, -34.621514 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0002", "SiteId": "chi0359", "Orientation": 258.6, "Slope": 0.07, "Trend": -0.18 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.041425, -34.620011 ], [ -72.045722, -34.620616 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0003", "SiteId": "chi0359", "Orientation": 256.1, "Slope": 0.08, "Trend": -0.12 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.041649, -34.619051 ], [ -72.045911, -34.619808 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0004", "SiteId": "chi0359", "Orientation": 253.1, "Slope": 0.11, "Trend": -0.04 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.041927, -34.618082 ], [ -72.046135, -34.619024 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0005", "SiteId": "chi0359", "Orientation": 258.6, "Slope": 0.055, "Trend": 0.0 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.0422, -34.617391 ], [ -72.046496, -34.617998 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0006", "SiteId": "chi0359", "Orientation": 269.4, "Slope": 0.085, "Trend": 0.08 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.042213, -34.616841 ], [ -72.046572, -34.616767 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0007", "SiteId": "chi0359", "Orientation": 270.7, "Slope": 0.115, "Trend": -0.01 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.042126, -34.615983 ], [ -72.046481, -34.615829 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0008", "SiteId": "chi0359", "Orientation": 265.0, "Slope": 0.065, "Trend": 0.06 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.042123, -34.614902 ], [ -72.046475, -34.61511 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0009", "SiteId": "chi0359", "Orientation": 254.1, "Slope": 0.075, "Trend": -0.08 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.042316, -34.613671 ], [ -72.046542, -34.614553 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0010", "SiteId": "chi0359", "Orientation": 251.0, "Slope": 0.055, "Trend": -0.58 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.042745, -34.612743 ], [ -72.046908, -34.613813 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0011", "SiteId": "chi0359", "Orientation": 265.4, "Slope": 0.055, "Trend": 0.44 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.042895, -34.612312 ], [ -72.047249, -34.612493 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0012", "SiteId": "chi0359", "Orientation": 277.5, "Slope": 0.075, "Trend": 0.42 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.042783, -34.611802 ], [ -72.047085, -34.611221 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0013", "SiteId": "chi0359", "Orientation": 278.4, "Slope": 0.08, "Trend": 0.24 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.042576, -34.610945 ], [ -72.046867, -34.610311 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0014", "SiteId": "chi0359", "Orientation": 267.3, "Slope": 0.165, "Trend": 0.4 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.042372, -34.609709 ], [ -72.04673, -34.609771 ] ] } },
+{ "type": "Feature", "properties": { "TransectId": "chi0359-0015", "SiteId": "chi0359", "Orientation": 256.9, "Slope": 0.065, "Trend": 0.22 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.042621, -34.608533 ], [ -72.046894, -34.609244 ] ] } }
+]
+}

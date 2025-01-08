@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "chi0362_polygon",
+"features": [
+{ "type": "Feature", "properties": { "SiteId": "chi0362", "pk": "id_chi0362" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -72.0518, -34.688833 ], [ -72.047896, -34.664249 ], [ -72.054865, -34.663493 ], [ -72.058771, -34.688078 ], [ -72.0518, -34.688833 ] ] ] } }
+]
+}
