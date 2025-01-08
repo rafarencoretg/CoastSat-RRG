@@ -2,18 +2,18 @@
 "type": "FeatureCollection",
 "name": "chi0360_transects",
 "features": [
-{ "type": "Feature", "properties": { "TransectId": "chi0360-0000", "SiteId": "chi0360", "Orientation": 280.4, "Slope": 0.09, "Trend": 1.11 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.041436, -34.637187 ], [ -72.045698, -34.636427 ] ] } },
-{ "type": "Feature", "properties": { "TransectId": "chi0360-0001", "SiteId": "chi0360", "Orientation": 280.4, "Slope": 0.07, "Trend": 0.86 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.041206, -34.636306 ], [ -72.045468, -34.635546 ] ] } },
-{ "type": "Feature", "properties": { "TransectId": "chi0360-0002", "SiteId": "chi0360", "Orientation": 278.1, "Slope": 0.085, "Trend": 0.62 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.04096, -34.635353 ], [ -72.045256, -34.634739 ] ] } },
-{ "type": "Feature", "properties": { "TransectId": "chi0360-0003", "SiteId": "chi0360", "Orientation": 275.2, "Slope": 0.075, "Trend": 0.35 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.040802, -34.634369 ], [ -72.045131, -34.633937 ] ] } },
-{ "type": "Feature", "properties": { "TransectId": "chi0360-0004", "SiteId": "chi0360", "Orientation": 275.5, "Slope": 0.085, "Trend": 0.12 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.040683, -34.633483 ], [ -72.045009, -34.633032 ] ] } },
-{ "type": "Feature", "properties": { "TransectId": "chi0360-0005", "SiteId": "chi0360", "Orientation": 275.2, "Slope": 0.08, "Trend": -0.02 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.04053, -34.632583 ], [ -72.044858, -34.632148 ] ] } },
-{ "type": "Feature", "properties": { "TransectId": "chi0360-0006", "SiteId": "chi0360", "Orientation": 272.4, "Slope": 0.08, "Trend": -0.11 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.040409, -34.631601 ], [ -72.044757, -34.63134 ] ] } },
-{ "type": "Feature", "properties": { "TransectId": "chi0360-0007", "SiteId": "chi0360", "Orientation": 268.6, "Slope": 0.075, "Trend": -0.23 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.040357, -34.630581 ], [ -72.044716, -34.630559 ] ] } },
-{ "type": "Feature", "properties": { "TransectId": "chi0360-0008", "SiteId": "chi0360", "Orientation": 263.7, "Slope": 0.08, "Trend": -0.15 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.040397, -34.629528 ], [ -72.044743, -34.629818 ] ] } },
-{ "type": "Feature", "properties": { "TransectId": "chi0360-0009", "SiteId": "chi0360", "Orientation": 259.7, "Slope": 0.1, "Trend": -0.13 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.040556, -34.628511 ], [ -72.044867, -34.629048 ] ] } },
-{ "type": "Feature", "properties": { "TransectId": "chi0360-0010", "SiteId": "chi0360", "Orientation": 258.2, "Slope": 0.09, "Trend": -0.08 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.040748, -34.627576 ], [ -72.04504, -34.628207 ] ] } },
-{ "type": "Feature", "properties": { "TransectId": "chi0360-0011", "SiteId": "chi0360", "Orientation": 257.7, "Slope": 0.11, "Trend": -0.21 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.04095, -34.626675 ], [ -72.045236, -34.627337 ] ] } },
-{ "type": "Feature", "properties": { "TransectId": "chi0360-0012", "SiteId": "chi0360", "Orientation": 257.6, "Slope": 0.095, "Trend": -0.16 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.041152, -34.625787 ], [ -72.045437, -34.626454 ] ] } }
+{ "type": "Feature", "properties": { "name": "chi0360-0000" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.041436, -34.637187 ], [ -72.045698, -34.636427 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0360-0001" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.041206, -34.636306 ], [ -72.045468, -34.635546 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0360-0002" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.04096, -34.635353 ], [ -72.045256, -34.634739 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0360-0003" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.040802, -34.634369 ], [ -72.045131, -34.633937 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0360-0004" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.040683, -34.633483 ], [ -72.045009, -34.633032 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0360-0005" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.04053, -34.632583 ], [ -72.044858, -34.632148 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0360-0006" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.040409, -34.631601 ], [ -72.044757, -34.63134 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0360-0007" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.040357, -34.630581 ], [ -72.044716, -34.630559 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0360-0008" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.040397, -34.629528 ], [ -72.044743, -34.629818 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0360-0009" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.040556, -34.628511 ], [ -72.044867, -34.629048 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0360-0010" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.040748, -34.627576 ], [ -72.04504, -34.628207 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0360-0011" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.04095, -34.626675 ], [ -72.045236, -34.627337 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0360-0012" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.041152, -34.625787 ], [ -72.045437, -34.626454 ] ] } }
 ]
 }
