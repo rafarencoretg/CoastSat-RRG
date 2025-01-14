@@ -2,6 +2,9 @@ import os
 import geopandas as gpd
 
 
+### Archivo con funciones auxiliares para procesar código
+
+
 def transform_geojson_epsg(input_geojson, output_geojson, settings):
     """
     Identifica el EPSG de un archivo GeoJSON que contiene transectos (LINESTRING) en su segunda columna,
