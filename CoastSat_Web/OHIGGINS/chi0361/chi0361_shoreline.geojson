@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "chi0361_shoreline",
+"features": [
+{ "type": "Feature", "properties": { "SiteId": "chi0361", "MedianSlope": 0.1081, "MeanTrend": 0.2 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.052425, -34.663949 ], [ -72.052402, -34.66236 ], [ -72.052448, -34.660828 ], [ -72.052057, -34.659013 ], [ -72.051896, -34.657878 ], [ -72.051781, -34.655987 ], [ -72.051827, -34.654928 ] ] } }
+]
+}
