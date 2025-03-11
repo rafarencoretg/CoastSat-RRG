@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"name": "chi0359_transects",
 "features": [
 { "type": "Feature", "properties": { "name": "chi0359-0000" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.041062, -34.621733 ], [ -72.045336, -34.622443 ] ] } },
 { "type": "Feature", "properties": { "name": "chi0359-0001" }, "geometry": { "type": "LineString", "coordinates": [ [ -72.041267, -34.620895 ], [ -72.045561, -34.621514 ] ] } },
