@@ -1,6 +1,5 @@
 {
 "type": "FeatureCollection",
-"name": "chi0345_transects_transformed",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32718" } },
 "features": [
 { "type": "Feature", "properties": { "name": "chi0345-0000" }, "geometry": { "type": "LineString", "coordinates": [ [ 788416.632258482277393, 6237436.140026656910777 ], [ 788447.383135018171743, 6237835.067620746791363 ] ] } },
