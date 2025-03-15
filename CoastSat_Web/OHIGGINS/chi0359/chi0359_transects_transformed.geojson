@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32718" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "chi0359-0000" }, "geometry": { "type": "LineString", "coordinates": [ [ 771287.725745881674811, 6164921.916973829269409 ], [ 770893.433636748231947, 6164854.651492036879063 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0001" }, "geometry": { "type": "LineString", "coordinates": [ [ 771271.654615614097565, 6165015.438575388863683 ], [ 770875.820557987317443, 6164958.321682130917907 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0002" }, "geometry": { "type": "LineString", "coordinates": [ [ 771260.043507068650797, 6165113.936881059780717 ], [ 770863.975828964379616, 6165058.380498349666595 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0003" }, "geometry": { "type": "LineString", "coordinates": [ [ 771242.626313913613558, 6165221.044464757665992 ], [ 770849.269951123045757, 6165148.529788460582495 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0004" }, "geometry": { "type": "LineString", "coordinates": [ [ 771220.285151461372152, 6165329.29584914073348 ], [ 770831.275563877890818, 6165236.11052561365068 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0005" }, "geometry": { "type": "LineString", "coordinates": [ [ 771197.496605353313498, 6165406.691793566569686 ], [ 770801.502458089729771, 6165350.90743600949645 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0006" }, "geometry": { "type": "LineString", "coordinates": [ [ 771198.095328222727403, 6165467.744892312213778 ], [ 770798.534764149226248, 6165487.681160760112107 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0007" }, "geometry": { "type": "LineString", "coordinates": [ [ 771208.868929696269333, 6165562.698899145238101 ], [ 770809.931237697484903, 6165591.499973274767399 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0008" }, "geometry": { "type": "LineString", "coordinates": [ [ 771212.664287349325605, 6165682.6191036850214 ], [ 770812.819474525749683, 6165671.251016655936837 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0009" }, "geometry": { "type": "LineString", "coordinates": [ [ 771198.970463770092465, 6165819.70823216624558 ], [ 770808.485292608849704, 6165733.225717408582568 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0010" }, "geometry": { "type": "LineString", "coordinates": [ [ 771162.642835109960288, 6165923.81711745262146 ], [ 770777.32117282692343, 6165816.306447947397828 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0011" }, "geometry": { "type": "LineString", "coordinates": [ [ 771150.287415543338284, 6165972.036805547773838 ], [ 770750.334798434982076, 6165963.666065746918321 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0012" }, "geometry": { "type": "LineString", "coordinates": [ [ 771162.220722889062017, 6166028.315737803466618 ], [ 770769.512247642502189, 6166104.343227595090866 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0013" }, "geometry": { "type": "LineString", "coordinates": [ [ 771183.997667836723849, 6166122.835797509178519 ], [ 770792.466461068019271, 6166204.714313860051334 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0014" }, "geometry": { "type": "LineString", "coordinates": [ [ 771206.733675022609532, 6166259.41087562777102 ], [ 770806.788364983396605, 6166264.254631403833628 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0359-0015" }, "geometry": { "type": "LineString", "coordinates": [ [ 771187.72207849775441, 6166390.548751579597592 ], [ 770793.458357246592641, 6166323.161712804809213 ] ] } }
+]
+}

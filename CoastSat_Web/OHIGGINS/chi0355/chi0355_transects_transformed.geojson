@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32718" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "chi0355-0000" }, "geometry": { "type": "LineString", "coordinates": [ [ 773987.536877692095004, 6190534.261243437416852 ], [ 773771.352169192396104, 6190870.724048109725118 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0355-0001" }, "geometry": { "type": "LineString", "coordinates": [ [ 774094.094717996427789, 6190605.077145325019956 ], [ 773833.020393317099661, 6190908.107639219611883 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0355-0002" }, "geometry": { "type": "LineString", "coordinates": [ [ 774191.995143573265523, 6190716.341725697740912 ], [ 773862.97230264195241, 6190943.75813829805702 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0355-0003" }, "geometry": { "type": "LineString", "coordinates": [ [ 774255.306128398980945, 6190831.399436490610242 ], [ 773894.669766757171601, 6191004.340250037610531 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0355-0004" }, "geometry": { "type": "LineString", "coordinates": [ [ 774298.439449683763087, 6190933.282316762022674 ], [ 773929.125399448210374, 6191086.715215943753719 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0355-0005" }, "geometry": { "type": "LineString", "coordinates": [ [ 774337.311203335644677, 6191027.962142090313137 ], [ 773966.115743434638716, 6191177.010148296132684 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0355-0006" }, "geometry": { "type": "LineString", "coordinates": [ [ 774376.429126847768202, 6191127.853308446705341 ], [ 774000.138041403377429, 6191263.394963497295976 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0355-0007" }, "geometry": { "type": "LineString", "coordinates": [ [ 774415.281315094442107, 6191249.959404185414314 ], [ 774023.469378378707916, 6191330.551764817908406 ] ] } },
+{ "type": "Feature", "properties": { "name": "chi0355-0008" }, "geometry": { "type": "LineString", "coordinates": [ [ 774427.23127007635776, 6191371.303048091009259 ], [ 774028.827621303265914, 6191406.342573139816523 ] ] } }
+]
+}
